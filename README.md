@@ -1,2 +1,0 @@
-# pongHTML
-Created with CodeSandbox
