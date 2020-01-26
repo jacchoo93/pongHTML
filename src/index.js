@@ -46,3 +46,5 @@ const comp = {
   color: "white",
   score: 0
 };
+
+function fillings() {}
